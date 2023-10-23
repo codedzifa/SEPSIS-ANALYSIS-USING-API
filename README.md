@@ -84,15 +84,6 @@ They both have long command-lines which have the same structure, they pipe multi
           uvicorn src.main:app --reload 
 
   
-  <!-- - Salary prediction
-
-          uvicorn src.salary.api:app --reload  -->
-
-
-  - Go to your browser at the following address, to explore the API:
-        
-      http://127.0.0.1:8000/docs
-
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
@@ -107,18 +98,7 @@ They both have long command-lines which have the same structure, they pipe multi
 
 
 
-<!-- ## Screenshots
-
-<table>
-    <tr>
-        <th>FastAPI</th>
-        <th>FastAPI</th>
-    </tr>
-    <tr>
-        <td><img src="./screenshots/.png"/></td>
-        <td><img src="./screenshots/.png"/></td>
-    </tr>
-</table> -->
+![Javatpoint](My Computer/Downloads/Javatpoint.png)  
 
 
 ## Resources
