@@ -8,12 +8,11 @@ In this project, we aim to create an API that might be requested to interact wit
 
 ## Description
 
-We will construct a machine learning model utilizing the [Sepsis](https://www.kaggle.com/datasets/chaunguynnghunh/sepsis?select=README.md) dataset available on Kaggle. The primary objective of this model is to forecast whether a patient is afflicted with sepsis or not.
+We will build a machine learning model using the Kaggle dataset on [Sepsis](https://www.kaggle.com/datasets/chaunguynnghunh/sepsis?select=README.md) with the main goal of predicting whether a patient has sepsis.
 
-Once the model is created, we will develop an Application Programming Interface (API) using FastAPI, facilitating seamless communication with the model. The subsequent step involves deploying the API on the Hugging Face platform.
+After creating the model, we will create an Application Programming Interface (API) with FastAPI to enable smooth interaction with the model. The next step will be deploying the API on the Hugging Face platform.
 
-You can learn more about FastAPI here
-[FastAPI](https://fastapi.tiangolo.com/).
+For additional information on FastAPI, you can explore it further [here](https://fastapi.tiangolo.com/).
 
 ### Dataset Description
 
@@ -95,7 +94,7 @@ App Interface
 
 ## Resources
 
-Here are some ressources you would read to have a good understanding of FastAPI :
+Here are some resources you should read to have a good understanding of FastAPI :
 
 - [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial/)
 - [Video - Building a Machine Learning API in 15 Minutes ](https://youtu.be/C82lT9cWQiA)
